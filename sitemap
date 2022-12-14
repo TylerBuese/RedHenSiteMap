@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://localhost:7119</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://localhost:7119/login</loc>
+  </url>
+  <url>
+    <loc>https://localhost:7119/browse?justbrowsing=true</loc>
+  </url>
+  <url>
+    <loc>https://localhost:7119/profile</loc>
+  </url>
+  <url>
+    <loc>https://localhost:7119/signup</loc>
+  </url>
+  <url>
+    <loc>https://localhost:7119/upgrade</loc>
+  </url>
+</urlset>
